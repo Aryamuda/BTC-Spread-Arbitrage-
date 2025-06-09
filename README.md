@@ -24,7 +24,7 @@ We use two formal statistical tests to validate this assumption:
 1.  **Augmented Dickey-Fuller (ADF) Test**: Tests for non-stationarity.
 2.  **Kwiatkowski-Phillips-Schmidt-Shin (KPSS) Test**: Tests for stationarity.
 
-A key finding of this analysis was that over the full 5-year historical period, the tests gave conflicting results. However, upon splitting the data at a suspected **regime change date (`2022-11-01`)**, both the ADF and KPSS tests provided strong, concurring evidence that the Spread **is stationary** in the more recent market environment. This provides a solid statistical foundation for the strategy's viability going forward.
+A key finding of this analysis was that over the full 5-year historical period, the tests gave conflicting results. However, upon splitting the data at a suspected **regime change date (`2023-06-01`)**, both the ADF and KPSS tests provided strong, concurring evidence that the Spread **is stationary** in the more recent market environment. This provides a solid statistical foundation for the strategy's viability going forward.
 
 ## How It Works
 
